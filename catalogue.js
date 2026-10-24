@@ -75,6 +75,7 @@ window.HUON_PRODUCTS=[
     "price": 7,
     "description": "A fun, flexible 3D-printed fidget.",
     "emoji": "🌀",
+    "image": "assets/products/twisty-fidget.jpg",
     "video": "https://www.facebook.com/61594688200593/videos/pcb.122116987515489606/954310561087679"
   },
   {
