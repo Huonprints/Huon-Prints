@@ -75,14 +75,6 @@ window.HUON_PRODUCTS=[
     "video": "https://www.facebook.com/61594688200593/videos/pcb.122116987515489606/954310561087679"
   },
   {
-    "id": 9,
-    "name": "Boo",
-    "category": "Halloween Decorations",
-    "price": 7,
-    "description": "A playful spooky 3D-printed creation.",
-    "emoji": "👻"
-  },
-  {
     "id": 10,
     "name": "Infinity Cubes",
     "category": "Fidgets & Toys",
@@ -116,24 +108,6 @@ window.HUON_PRODUCTS=[
       "quantity": 3,
       "price": 5
     }
-  },
-  {
-    "id": 13,
-    "name": "Fidget Ghost",
-    "category": "Halloween Decorations",
-    "price": 5,
-    "description": "A spooky little 3D-printed fidget.",
-    "emoji": "👻",
-    "available": false
-  },
-  {
-    "id": 14,
-    "name": "Ghost Cat",
-    "category": "Halloween Decorations",
-    "price": null,
-    "description": "A black-and-white ghost cat with ears, paws and a curled tail.",
-    "emoji": "🐈",
-    "image": "assets/products/ghost-cat.jpg"
   },
   {
     "id": 15,
