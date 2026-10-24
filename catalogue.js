@@ -16,7 +16,8 @@ window.HUON_PRODUCTS=[
     "category": "Christmas Decorations",
     "price": 10,
     "description": "A festive 3D-printed tree with a warm LED tealight glow.",
-    "emoji": "🎄"
+    "emoji": "🎄",
+    "image": "assets/products/white-tree-lamp.jpg"
   },
   {
     "id": 3,
@@ -24,7 +25,8 @@ window.HUON_PRODUCTS=[
     "category": "Home & Gifts",
     "price": 15,
     "description": "A suspended LED tealight inside a gold square frame.",
-    "emoji": "✨"
+    "emoji": "✨",
+    "image": "assets/products/gold-floating-tealight.jpg"
   },
   {
     "id": 4,
@@ -32,7 +34,8 @@ window.HUON_PRODUCTS=[
     "category": "Home & Gifts",
     "price": 15,
     "description": "A decorative lattice lamp that casts beautiful patterns of light.",
-    "emoji": "💡"
+    "emoji": "💡",
+    "image": "assets/products/black-lattice-lamp.jpg"
   },
   {
     "id": 5,
@@ -40,7 +43,8 @@ window.HUON_PRODUCTS=[
     "category": "Home & Gifts",
     "price": 20,
     "description": "A sculptural lamp with flowing white curves and gentle illumination.",
-    "emoji": "💡"
+    "emoji": "💡",
+    "image": "assets/products/white-wavy-lamp.jpg"
   },
   {
     "id": 6,
@@ -48,7 +52,8 @@ window.HUON_PRODUCTS=[
     "category": "Home & Gifts",
     "price": 20,
     "description": "A contemporary ribbed lamp with a soft warm glow.",
-    "emoji": "💡"
+    "emoji": "💡",
+    "image": "assets/products/white-ribbed-lamp.jpg"
   },
   {
     "id": 7,
@@ -56,7 +61,8 @@ window.HUON_PRODUCTS=[
     "category": "Home & Gifts",
     "price": 40,
     "description": "Geometric cube light with colourful remote-controlled RGB lighting.",
-    "emoji": "🧊",
+    "emoji": "🧊",,
+    "image": "assets/products/cube-light.jpg"
     "video": "https://www.facebook.com/61594688200593/videos/pcb.122110813209489606/1656598352482718"
   },
   {
@@ -82,7 +88,8 @@ window.HUON_PRODUCTS=[
     "category": "Fidgets & Toys",
     "price": 5,
     "description": "Flip and fold these satisfying cubes. Three for $10.",
-    "emoji": "🎁",
+    "emoji": "🎁",,
+    "image": "assets/products/infinity-cubes.jpg"
     "bundle": {
       "quantity": 3,
       "price": 10
@@ -94,7 +101,8 @@ window.HUON_PRODUCTS=[
     "category": "Fidgets & Toys",
     "price": 3,
     "description": "Orange mechanical fidgets with interlocking gears.",
-    "emoji": "⚙️"
+    "emoji": "⚙️",
+    "image": "assets/products/gear-spinner.jpg"
   },
   {
     "id": 12,
@@ -102,7 +110,8 @@ window.HUON_PRODUCTS=[
     "category": "Halloween Decorations",
     "price": 2,
     "description": "Mini pumpkins with a variety of cheeky faces. Three for $5.",
-    "emoji": "🎃",
+    "emoji": "🎃",,
+    "image": "assets/products/wacky-mini-pumpkins.jpg"
     "bundle": {
       "quantity": 3,
       "price": 5
@@ -123,7 +132,8 @@ window.HUON_PRODUCTS=[
     "category": "Halloween Decorations",
     "price": null,
     "description": "A black-and-white ghost cat with ears, paws and a curled tail.",
-    "emoji": "🐈"
+    "emoji": "🐈",
+    "image": "assets/products/ghost-cat.jpg"
   },
   {
     "id": 15,
