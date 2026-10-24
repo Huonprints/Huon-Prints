@@ -6,3 +6,12 @@
 
 /* Responsive PLA information sign and mobile shopping improvements */
 .materials-sign{margin:28px auto 0;max-width:760px;text-align:center}.materials-sign img{display:block;width:100%;height:auto;max-height:650px;object-fit:contain;border-radius:14px;box-shadow:0 8px 24px #12376316}.materials-sign figcaption{font-size:.82rem;line-height:1.5;color:#526a80;margin-top:10px}.cart-item button:disabled{opacity:.4;cursor:not-allowed}.cart-bottom{overscroll-behavior:contain}.site-header nav{flex-wrap:wrap}.product h3{overflow-wrap:anywhere}@media(max-width:430px){.site-header nav{gap:12px;font-size:.86rem}.cart-bottom{padding:14px 16px}.cart-items{padding:14px 16px}.section.materials{border-radius:0}}
+
+/* Keep product photographs and descriptions in separate, bounded card areas. */
+.product{min-width:0;display:flex;flex-direction:column}
+.product-art{width:100%;min-width:0;flex:0 0 205px;height:205px;overflow:hidden;position:relative}
+.product-art img{display:block;width:100%;height:100%;min-width:0;min-height:0;max-width:100%;max-height:100%;object-fit:contain;object-position:center}
+.product-body{min-width:0;flex:1;display:flex;flex-direction:column;overflow-wrap:anywhere}
+.product-bottom{margin-top:auto}
+@media(max-width:760px){.product-art{flex-basis:160px;height:160px}}
+@media(max-width:430px){.product-art{flex-basis:205px;height:205px}}
