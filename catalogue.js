@@ -61,8 +61,8 @@ window.HUON_PRODUCTS=[
     "category": "Home & Gifts",
     "price": 40,
     "description": "Geometric cube light with colourful remote-controlled RGB lighting.",
-    "emoji": "🧊",,
-    "image": "assets/products/cube-light.jpg"
+    "emoji": "🧊",
+    "image": "assets/products/cube-light.jpg",
     "video": "https://www.facebook.com/61594688200593/videos/pcb.122110813209489606/1656598352482718"
   },
   {
@@ -88,8 +88,8 @@ window.HUON_PRODUCTS=[
     "category": "Fidgets & Toys",
     "price": 5,
     "description": "Flip and fold these satisfying cubes. Three for $10.",
-    "emoji": "🎁",,
-    "image": "assets/products/infinity-cubes.jpg"
+    "emoji": "🎁",
+    "image": "assets/products/infinity-cubes.jpg",
     "bundle": {
       "quantity": 3,
       "price": 10
@@ -110,8 +110,8 @@ window.HUON_PRODUCTS=[
     "category": "Halloween Decorations",
     "price": 2,
     "description": "Mini pumpkins with a variety of cheeky faces. Three for $5.",
-    "emoji": "🎃",,
-    "image": "assets/products/wacky-mini-pumpkins.jpg"
+    "emoji": "🎃",
+    "image": "assets/products/wacky-mini-pumpkins.jpg",
     "bundle": {
       "quantity": 3,
       "price": 5
