@@ -17,7 +17,8 @@ window.HUON_PRODUCTS=[
     "price": 10,
     "description": "A festive 3D-printed tree with a warm LED tealight glow.",
     "emoji": "🎄",
-    "image": "assets/products/white-tree-lamp.jpg"
+    "image": "assets/products/white-tree-lamp.jpg",
+    "gallery": ["assets/products/white-tree-lamp-detail.jpg"]
   },
   {
     "id": 3,
@@ -35,7 +36,8 @@ window.HUON_PRODUCTS=[
     "price": 15,
     "description": "A decorative lattice lamp that casts beautiful patterns of light.",
     "emoji": "💡",
-    "image": "assets/products/black-lattice-lamp.jpg"
+    "image": "assets/products/black-lattice-lamp.jpg",
+    "gallery": ["assets/products/black-lattice-shadow.jpg"]
   },
   {
     "id": 5,
@@ -53,7 +55,8 @@ window.HUON_PRODUCTS=[
     "price": 20,
     "description": "A contemporary ribbed lamp with a soft warm glow.",
     "emoji": "💡",
-    "image": "assets/products/white-ribbed-lamp.jpg"
+    "image": "assets/products/white-ribbed-lamp.jpg",
+    "gallery": ["assets/products/white-ribbed-lamp-detail.jpg"]
   },
   {
     "id": 7,
@@ -104,6 +107,7 @@ window.HUON_PRODUCTS=[
     "description": "Mini pumpkins with a variety of cheeky faces. Three for $5.",
     "emoji": "🎃",
     "image": "assets/products/wacky-mini-pumpkins.jpg",
+    "gallery": ["assets/products/wacky-mini-pumpkins-detail.jpg"],
     "bundle": {
       "quantity": 3,
       "price": 5
