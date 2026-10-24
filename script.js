@@ -1,6 +1,6 @@
 // EDIT YOUR PRODUCTS HERE. Prices are examples in Australian dollars.
 const products=[
-{id:7,name:"Jack-o'-Lantern Candy Bowl",category:'Halloween Decorations',price:30,image:'assets/jack-o-lantern-candy-bowl.jpg',description:'Add some spooky fun to your Halloween celebrations! This eye-catching 3D-printed pumpkin features a wicked grin, bold orange finish and contrasting black details. A fantastic Halloween decoration and a fun way to display your favourite treats. Made in the Huon Valley, Tasmania.'},
+{id:7,name:"Jack-o'-Lantern Candy Bowl",category:'Halloween Decorations',price:30,image:'jack-o-lantern-candy-bowl.jpg',description:'Add some spooky fun to your Halloween celebrations! This eye-catching 3D-printed pumpkin features a wicked grin, bold orange finish and contrasting black details. A fantastic Halloween decoration and a fun way to display your favourite treats. Made in the Huon Valley, Tasmania.'},
 {id:1,name:'Articulated Fidget Friend',category:'Fidgets & Toys',price:12,emoji:'🐉',description:'A playful, flexible 3D-printed desk companion.'},
 {id:2,name:'Pocket Fidget',category:'Fidgets & Toys',price:6,emoji:'🌀',description:'A little something to keep busy hands entertained.'},
 {id:3,name:'Geometric Desk Lamp',category:'Home & Gifts',price:35,emoji:'💡',description:'An eye-catching accent for your desk or shelf. Example listing only.'},
